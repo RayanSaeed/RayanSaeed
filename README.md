@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS, Swift and all things Apple.
 - 🌱 I’m currently learning SwiftUI and TCA.
 - 💼 Checkout my portfolio at -> www.rayansaeed.me
-- 🐦 Say hello on twitter -> twitter.com/rayan__saeed
+- 🐦 Say hello on twitter -> [@rayan__saeed](https://twitter.com/rayan__saeed)
 - 📫 How to reach me -> rayancodes@gmail.com
 
 <!---
